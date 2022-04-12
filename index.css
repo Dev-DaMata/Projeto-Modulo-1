@@ -1,0 +1,76 @@
+body{
+    background-color: #cc3243;
+}
+.container{
+    background-color: #5d5d5d;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+.nomedojogo{
+    
+    margin-left: 30%;
+}
+.hsp{
+    display: flex;
+    background-color: brown;
+    border-left: 5px;
+    padding-left: 5px;
+
+}
+#home{
+    
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: center;
+}
+#sobre{
+   
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: center;
+}
+#programadores{
+    
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: center;
+}
+#infogame{
+    margin-left: 45%;
+}
+#desafiojogo{
+    margin-left: 35%;
+}
+.container3{
+    text-align: center;
+    width: 70%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+#escolha{
+     text-align: center;
+     width: 70%;
+     margin-left: 10%;
+     margin-right: 20%;
+}
+#herois{
+    /* background-color: rgba(0,0,0,0.5); */
+    display: flex;
+    justify-content: center; 
+    border-left: 30%;
+    /* width: 80%; */
+
+}
+.img1{
+    border: 2px solid rgba(0,0,0,0.5);
+    border-radius: 25px;
+}
+.img2{
+    border: 2px solid rgba(0,0,0,0.5);
+    border-radius: 25px;
+}
+.img3{
+    border: 2px solid rgba(0,0,0,0.5);
+    border-radius: 25px;
+}
