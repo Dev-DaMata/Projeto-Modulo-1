@@ -1,27 +1,32 @@
-body{
+body {
     background-color: #cc3243;
 }
-.container{
+
+.container {
     background-color: #5d5d5d;
     text-align: center;
 }
 
 
-.historia{
+.historia {
     margin-left: 10%;
     font-size: 50px;
 
 }
-button, img{
+
+button,
+img {
     display: inline-block;
 }
-.conteudo{
-    display: flex; 
+
+.conteudo {
+    display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
 }
-.butao{
+
+.butao {
     display: flex;
     border-right: 50px;
     border-color: #0a0a0a;

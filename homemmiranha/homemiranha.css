@@ -1,20 +1,24 @@
-body{
+body {
     background-color: #cc3243;
 }
-.container{
+
+.container {
     background-color: #5d5d5d;
     text-align: center;
 }
-.historia{
+
+.historia {
     margin-left: 10%;
     font-size: 50px;
 }
-.perguntas{
+
+.perguntas {
     background-color: chocolate;
     margin-right: 40%;
     margin-left: 40%;
-    border: 2px solid rgba(0,0,0,0.5);
+    border: 2px solid rgba(0, 0, 0, 0.5);
 }
-.botao{
+
+.botao {
     margin-left: 30%;
 }
