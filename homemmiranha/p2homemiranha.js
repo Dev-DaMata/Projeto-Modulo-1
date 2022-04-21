@@ -3,6 +3,7 @@ function botao() {
     var contador = 1
     while (contador >= 0) {
         if (resposta == "a" || resposta == "A") {
+            alert("Parabéns, você acertou")
             return location = "./p3homemiranha.html"
         } else {
             contador--

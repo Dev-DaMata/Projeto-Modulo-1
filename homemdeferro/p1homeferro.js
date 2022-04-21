@@ -3,6 +3,7 @@ function botao() {
     var contador = 1
     while (contador >= 0) {
         if (resposta == "b" || resposta == "B") {
+            alert("Parabéns, você acertou")
             return location = "./p2homeferro.html"
         } else {
             contador--

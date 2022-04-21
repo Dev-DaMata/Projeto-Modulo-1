@@ -1,3 +1,15 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+button{
+    border: none;
+}
+button:focus{
+    border:none;
+    outline:none;
+}
 body{
     /* background-color: #cc3243; */
     background-image: url(../img/fundoIronMan.jpg);
@@ -8,15 +20,24 @@ body{
 .historia{
     margin-left: 10%;
     font-size: 50px;
+    text-align: center;
 }
 .perguntas{
-    background-color: chocolate;
+    background-color: rgba(199, 100, 34, 0.7);
     margin-right: 40%;
     margin-left: 40%;
     border: 2px solid rgba(0,0,0,0.5);
 }
 .botao{
     margin-left: 30%;
+    padding: 3px;
+    border: 1px solid black;
+    background-color: transparent;
+    cursor:pointer;
+}
+.botao:hover{
+    background-color: black;
+    color: red;
 }
 .heroi{
     display: flex;

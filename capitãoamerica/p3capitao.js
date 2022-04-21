@@ -3,6 +3,7 @@ function botao() {
     var contador = 1
     while (contador >= 0) {
         if (resposta == "c" || resposta == "C") {
+            alert("Parabéns, você acertou")
             return location = "../parabens.html"
         } else {
             contador--
