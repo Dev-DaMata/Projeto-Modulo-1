@@ -1,6 +1,7 @@
 body {
-    background-color: #cc3243;
-    ;
+    background-image: url(https://media.giphy.com/media/eJ4j2VnYOZU8qJU3Py/giphy.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 header {
@@ -22,5 +23,6 @@ button {
     background-color: #cc3243;
     text-align: center;
     font-size: 50px;
-    margin-left: 80%;
+    margin-left: 55%;
+    margin-top: 43%;
 }

@@ -1,10 +1,10 @@
 body{
-    background-color: #cc3243;
+    /* background-color: #cc3243; */
+    background-image: url(../img/fundoIronMan.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
-.container{
-    background-color: #5d5d5d;
-    text-align: center;
-}
+
 .historia{
     margin-left: 10%;
     font-size: 50px;
@@ -17,4 +17,10 @@ body{
 }
 .botao{
     margin-left: 30%;
+}
+.heroi{
+    display: flex;
+    background-color: #5d5d5d;
+    text-align: center;
+    justify-content: center;
 }

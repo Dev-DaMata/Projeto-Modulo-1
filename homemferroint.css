@@ -13,14 +13,8 @@ body {
 .historia {
     margin-left: 10%;
     font-size: 50px;
-
+    
 }
-
-button,
-img {
-    display: inline-block;
-}
-
 .conteudo {
     display: flex;
     flex-direction: column;
@@ -34,5 +28,9 @@ img {
     border-color: #0a0a0a;
 }
 .heroi{
+    display: flex;
+    background-color: #5d5d5d;
+    text-align: center;
+    justify-content: center;
     
 }
