@@ -1,3 +1,37 @@
 body{
-    background-color: #cc3243;
+    background-image: url(./img/fotofinal.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#motivacao{
+    color: white;
+    font-family: 'BIZ UDMincho', serif;
+    font-family: 'Inspiration', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Rubik Puddles', cursive;
+    font-family: 'Send Flowers', cursive;
+    font-family: 'Teko', sans-serif;
+}
+#parabens{
+    color: white;
+    margin-left: 30%;
+    font-family: 'BIZ UDMincho', serif;
+    font-family: 'Inspiration', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Rubik Puddles', cursive;
+    font-family: 'Send Flowers', cursive;
+    font-family: 'Teko', sans-serif;
+}
+#botao{
+    margin-left: 45%;
+}
+#dev{
+    margin-top: 35%;
+    margin-left: 15%;
 }

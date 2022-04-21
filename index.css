@@ -30,23 +30,13 @@ body{
     
     margin-left: 30%;
 }
-.hsp{
-    display: flex;
-    background-color: brown;
-    border-left: 5px;
-    padding-left: 5px;
-
-}
 #programadores{
-    
-    padding-left: 5px;
-    padding-right: 5px;
+    color:#000000;
     text-align: center;
+    text-decoration: none;
+    margin-right: 2%;
 }
 #infogame{
-    /* text-align: center;
-    justify-content: center; */
-    /* padding-top: 5%;*/
     margin-left: 35%;
     padding-top: 5%;
 }
@@ -58,7 +48,6 @@ body{
 .container3{
     text-align: center;
     align-items: center;
-    /* width: 70%; */
     margin-left: 20%;
     margin-right: 20%;
 }
@@ -67,24 +56,24 @@ body{
      align-items: center;
 }     
 .herois{
-   /* display: flex; */
-   /* justify-content: center;
-     */
+
     margin-left: 35% ;
 
 }
 .img1{
-    /* border: 2px solid rgba(0,0,0,0.5); */
     border-radius: 25px;
     
 }
 .img2{
-    /* border: 2px solid rgba(0,0,0,0.5); */
     border-radius: 25px;
 }
 .img3{
-    /* border: 2px solid rgba(0,0,0,0.5); */
     border-radius: 25px;
+}
+#dev{
+    margin-top: 20%;
+    margin-left: 15%;
+    
 }
 .img1:hover{
     width: 13%;
@@ -104,4 +93,9 @@ body{
 #iron:hover{
     background-image: url();
     transition: 0.1s;
+}
+.hsp:hover{
+    display: flex;
+    background-color: brown;
+    text-decoration: none;
 }

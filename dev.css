@@ -1,0 +1,75 @@
+body{
+    background-image: url(./img/fundobio.jpg);
+}
+
+
+
+#dev{
+    margin-left: 42%;
+    font-family: 'BIZ UDMincho', serif;
+    font-family: 'Inspiration', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Permanent Marker', cursive;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Rubik Puddles', cursive;
+    font-family: 'Send Flowers', cursive;
+    font-family: 'Teko', sans-serif;
+    color: white;
+    }
+#foto{
+    border-radius: 3%;
+    padding-right: 1%;
+}
+.tifoto{
+    display: flex;
+    align-items: center;
+    margin-left: 40%;
+}
+#nome{
+    font-size: 30px;
+    font-family: 'BIZ UDMincho', serif;
+    font-family: 'Inspiration', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Permanent Marker', cursive;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Rubik Puddles', cursive;
+    font-family: 'Send Flowers', cursive;
+    font-family: 'Teko', sans-serif;
+    color: white;
+}
+#infosobre{
+    font-family: 'BIZ UDMincho', serif;
+    font-family: 'Inspiration', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Permanent Marker', cursive;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Rubik Puddles', cursive;
+    font-family: 'Send Flowers', cursive;
+    font-family: 'Teko', sans-serif;
+    color: white;
+    margin-left: 48%;
+}
+.sobre{
+    font-family: 'BIZ UDMincho', serif;
+    font-family: 'Inspiration', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Permanent Marker', cursive;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Rubik Puddles', cursive;
+    font-family: 'Send Flowers', cursive;
+    font-family: 'Teko', sans-serif;
+    margin-left: 10%; 
+    color: white;
+}
+#botao{
+    margin-left: 45%;
+}
+   
