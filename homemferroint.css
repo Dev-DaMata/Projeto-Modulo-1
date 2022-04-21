@@ -1,9 +1,11 @@
 body {
-    background-color: #cc3243;
+    background-image: url(./img/fundoIronMan.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .container {
-    background-color: #5d5d5d;
+    background-color: #000000;
     text-align: center;
 }
 
@@ -30,4 +32,7 @@ img {
     display: flex;
     border-right: 50px;
     border-color: #0a0a0a;
+}
+.heroi{
+    
 }

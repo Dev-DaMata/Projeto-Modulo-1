@@ -1,0 +1,38 @@
+
+var ftGUID_4200530="5164AA2F0F0069";
+var ftConfID_4200530="0";
+var ftParams_4200530="ftx=&fty=&ftadz=&ftscw=&ft_custom=&ftOBA=1&ft_agentEnv=0&ft_referrer=https%3A%2F%2Fgoogleads.g.doubleclick.net%2Fpagead%2Fads%3Fclient%3Dca-pub-5450920896573507%26output%3Dhtml%26h%3D280%26slotname%3D7814815007%26adk%3D4133599859%26adf%3D3143382674%26pi%3Dt.ma~as.7814815007%26w%3D336%26lmt%3D1650442233%26rafmt%3D12%26psa%3D1%26format%3D336x280%26url%3Dhttps%253A%252F%252Ffontmeme.com%252Favengers-endgame-font%252F%26wgl%3D1%26uach%3DWyJXaW5kb3dzIiwiMTQuMC4wIiwieDg2IiwiIiwiMTAwLjAuNDg5Ni4xMjciLFtdLG51bGwsbnVsbCwiNjQiLFtbIiBOb3QgQTtCcmFuZCIsIjk5LjAuMC4wIl0sWyJDaHJvbWl1bSIsIjEwMC4wLjQ4OTYuMTI3Il0sWyJHb29nbGUgQ2hyb21lIiwiMTAwLjAuNDg5Ni4xMjciXV0sZmFsc2Vd%26dt%3D1650543810499%26bpp%3D1%26bdt%3D103%26idt%3D147%26shv%3Dr20220413%26mjsv%3Dm202204140101%26ptt%3D9%26saldr%3Daa%26abxe%3D1%26cookie%3DID%253Ddec0a528d3f3d03f-22716c501c7c00cd%253AT%253D1650506422%253ART%253D1650506422%253AS%253DALNI_MZjrD2pZKTkJNuX2NU8NUwGtZIAxQ%26prev_fmts%3D583x280%252C0x0%252C583x280%26nras%3D1%26correlator%3D2184319709003%26frm%3D20%26pv%3D1%26ga_vid%3D1824090776.1650506407%26ga_s&ft_keyword=__13330890__&ft_section=__13330890____40192081678941728282040738612535681544&cachebuster=149671.6449723312";
+var ftKeyword_4200530="";
+var ftCustom_4200530="";
+var ftSection_4200530="__13330890____40192081678941728282040738612535681544";
+var ftSegment_4200530="aiia,afr5,aidp";
+var ftSegmentList_4200530=[{s:'aiia'},{s:'afr5'},{s:'aidp'}];
+var ftRuleMatch_4200530="0";
+var ftTimestamp_4200530="1650544869";
+var ftGeoC2_4200530="br";
+var ftGeoState_4200530="sp";
+var ftGeoCity_4200530="atibaia";
+var ftISP_4200530="claro brazil";
+var ftSpeed_4200530="broadband";
+var ftDMA_4200530="76123";
+var ftLong_4200530="-46.56";
+var ftLat_4200530="-23.13";
+var ftPostal_4200530="12940-060";
+var ftTimeZone_4200530="-300";
+var ftMobileCarrier_4200530="";
+var ftImp4200530 = {};
+ftImp4200530.privacy = "x";
+ftImp4200530.guidAge = "60";
+ftImp4200530.impID = "A51BF7A6-63C8-16D5-D0AF-F9AB90AB974E";
+ftImp4200530.duid = "FT:5164AA2F0F0069";
+
+ftImp4200530.ft_tpplid = "";
+ftImp4200530.ft_c = {};
+ftImp4200530.gdpr = "";
+ftImp4200530.gdpr_consent = "";
+ftImp4200530.gdpr_pd = "";
+ftImp4200530.oob_consent = "";
+ftImp4200530.gdprStoredConsent = "";
+ftImp4200530.us_privacy = "";
+
+document.write('<scr'+'ipt src="https://cdn.flashtalking.com/xre/420/4200530/3864041/js/j-4200530-3864041.js" id="ftscript_m4200530" name="ftscript_m4200530"></scr'+'ipt>');
